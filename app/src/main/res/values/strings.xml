@@ -1,0 +1,52 @@
+<resources>
+    <string name="app_name">Calculator_App</string>
+
+    <dimen name="button_height">75dp</dimen>
+    <dimen name="textSize">25sp</dimen>
+    <dimen name="buttonMargin">0.5dp</dimen>
+    <dimen name="layout_height">70dp</dimen>
+
+
+    <string name="zero">0</string>
+    <string name="one">1</string>
+    <string name="two">2</string>
+    <string name="three">3</string>
+    <string name="four">4</string>
+    <string name="five">5</string>
+    <string name="six">6</string>
+    <string name="seven">7</string>
+    <string name="eight">8</string>
+    <string name="nine">9</string>
+
+    <string name="plus">+</string>
+    <string name="minus">-</string>
+    <string name="multiplication">x</string>
+    <string name="division">/</string>
+    <string name="dot">.</string>
+    <string name="modulo">%</string>
+    <string name="equal">=</string>
+    <string name="delete">DEL</string>
+    <string name="clear">C</string>
+    <string name="RAD">RAD</string>
+    <string name="DEG">DEG</string>
+
+    <string name="parentheses_open">(</string>
+    <string name="parentheses_close">)</string>
+    <string name="root">"\u221A"</string>
+    <string name="power">^</string>
+    <string name="plus_or_minus">+/<Big>-</Big></string>
+    <string name="square">X<sup><small>2</small></sup></string>
+    <string name="factorial">!</string>
+    <string name="inverse">1/X</string>
+    <string name="e_constant">e</string>
+    <string name="pi">"\u03A0"</string>
+    <string name="log">log</string>
+    <string name="ln">ln</string>
+    <string name="sin">sin</string>
+    <string name="sin_inverse">sin<sup><small>-1</small></sup></string>
+    <string name="cos">cos</string>
+    <string name="cos_inverse">cos<sup><small>-1</small></sup></string>
+    <string name="tan">tan</string>
+    <string name="tan_inverse">tan<sup><small>-1</small></sup></string>
+
+</resources>
